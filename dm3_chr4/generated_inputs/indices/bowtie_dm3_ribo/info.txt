@@ -1,0 +1,1 @@
+cwltool --debug bowtie-build.cwl bowtie-build.json

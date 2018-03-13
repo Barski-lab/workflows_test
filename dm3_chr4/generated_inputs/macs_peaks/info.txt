@@ -1,0 +1,2 @@
+cwltool macs2-callpeak-biowardrobe-only.cwl macs2-callpeak.json
+cwltool macs2-callpeak-biowardrobe-only.cwl macs2-callpeak-broad.json

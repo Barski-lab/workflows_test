@@ -1,0 +1,15 @@
+{
+  "bam_file": {
+    "class": "File",
+    "location": "../bam_bai/chr4_100_mapped_reads.Aligned.out.bam",
+    "secondaryFiles": [
+      {
+        "class": "File",
+        "location": "../bam_bai/chr4_100_mapped_reads.Aligned.out.bam.bai"
+      }
+    ]
+  },
+  "annotation_file": {"class": "File", "location": "../../main_inputs/gtf/dm3_chr4.tsv"},
+  "exclude_chr": "chrM",
+  "threads": 1
+}

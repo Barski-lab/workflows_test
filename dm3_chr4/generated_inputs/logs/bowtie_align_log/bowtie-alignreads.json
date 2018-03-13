@@ -1,0 +1,12 @@
+{
+  "indices_folder": {"class": "Directory", "location": "../../indices/bowtie_dm3_chr4"},
+  "upstream_filelist": {"class": "File", "location": "../../../main_inputs/fastq/chr4_100_chrM_25_mapped_reads/upstream.fastq"},
+  "downstream_filelist": {"class": "File", "location": "../../../main_inputs/fastq/chr4_100_chrM_25_mapped_reads/downstream.fastq"},
+  "clip_3p_end": 0,
+  "clip_5p_end": 0,
+  "v": 3,
+  "m": 1,
+  "best": true,
+  "strata": true,
+  "threads": 1
+}

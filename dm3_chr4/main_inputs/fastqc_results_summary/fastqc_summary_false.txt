@@ -1,0 +1,12 @@
+PASS	Basic Statistics	sorted.bam
+PASS	Per base sequence quality	sorted.bam
+WARN	Per tile sequence quality	sorted.bam
+PASS	Per sequence quality scores	sorted.bam
+FAIL	Per base sequence content	sorted.bam
+PASS	Per sequence GC content	sorted.bam
+PASS	Per base N content	sorted.bam
+PASS	Sequence Length Distribution	sorted.bam
+PASS	Sequence Duplication Levels	sorted.bam
+WARN	Overrepresented sequences	sorted.bam
+PASS	Adapter Content	sorted.bam
+WARN	Kmer Content	sorted.bam

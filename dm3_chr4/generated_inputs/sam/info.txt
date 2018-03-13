@@ -1,0 +1,1 @@
+samtools view -h ../bam_bai/chr4_100_mapped_reads.Aligned.out.bam > chr4_100_mapped_reads.Aligned.out.sam

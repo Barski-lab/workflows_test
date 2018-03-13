@@ -1,0 +1,8 @@
+{
+  "treatment_file": {"location": "../bam_bai/chr4_100_mapped_reads.Aligned.out.bam", "class": "File"},
+  "format_mode": "BAMPE",
+  "extsize": 150,
+  "mfold": "4 40",
+  "broad": true,
+  "output_prefix": "broad"
+}

@@ -1,0 +1,1 @@
+cwltool --debug samtools-rmdup.cwl samtools-rmdup.json

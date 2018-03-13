@@ -1,0 +1,2 @@
+cwltool --debug bedtools-genomecov.cwl bedtools-genomecov.json
+cwltool --debug linux-sort.cwl linux-sort.json

@@ -1,0 +1,1 @@
+samtools view -T ../../main_inputs/fasta/chr4.fa -C -o chr4_100_mapped_reads.Aligned.out.cram ../bam_bai/chr4_100_mapped_reads.Aligned.out.bam

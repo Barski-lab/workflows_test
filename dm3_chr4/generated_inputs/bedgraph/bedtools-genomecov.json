@@ -1,0 +1,10 @@
+{
+    "input_file": {
+        "class": "File",
+        "location": "../bam_bai/chr4_100_mapped_reads.Aligned.out.bam"
+    },
+    "scale": 1,
+    "split": true,
+    "pairchip": true,
+    "depth": "-bg"
+}

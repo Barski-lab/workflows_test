@@ -1,0 +1,8 @@
+# Editor Temps
+.*.sw?
+*~
+\#*\#
+.desktop
+.vagrant
+.DS_Store
+._.DS_Store
