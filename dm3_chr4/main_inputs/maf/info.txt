@@ -1,0 +1,2 @@
+wget http://hgdownload.cse.ucsc.edu/goldenPath/dm3/mafSynNet/chr4.maf.gz
+gzip -d chr4.maf.gz

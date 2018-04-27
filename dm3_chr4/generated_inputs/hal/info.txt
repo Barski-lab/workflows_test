@@ -1,0 +1,1 @@
+maf2hal --refGenome dm3 --targetGenomes droSim2 ../maf/chr4.maf chr4.hal
