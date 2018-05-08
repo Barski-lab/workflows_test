@@ -1,0 +1,2 @@
+cwltool rsem-calculate-expression.cwl rsem-calculate-expression.json
+delete all except upstream.isoforms.results
