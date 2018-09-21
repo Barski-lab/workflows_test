@@ -1,0 +1,7 @@
+First 1000 isoform expression values from BioWardobe.
+t1_1000.isoforms.csv - from 6236
+t2_1000.isoforms.csv - from 6042
+t3_1000.isoforms.csv - from 6043
+u1_1000.isoforms.csv - from 6044
+u2_1000.isoforms.csv - from 6046
+u3_1000.isoforms.csv - from 6045
