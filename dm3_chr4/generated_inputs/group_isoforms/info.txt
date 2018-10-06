@@ -1,0 +1,6 @@
+cwltool group-isoforms.cwl group-isoforms-u1.json
+cwltool group-isoforms.cwl group-isoforms-u2.json
+cwltool group-isoforms.cwl group-isoforms-u3.json
+cwltool group-isoforms.cwl group-isoforms-t1.json
+cwltool group-isoforms.cwl group-isoforms-t2.json
+cwltool group-isoforms.cwl group-isoforms-t3.json

@@ -1,0 +1,5 @@
+{
+  "isoforms_file": {"class": "File", "location": "../../main_inputs/geep/t2_1000.isoforms.csv"},
+  "genes_filename": "t2_1000.genes.tsv",
+  "common_tss_filename": "t2_1000.common_tss.tsv"
+}
