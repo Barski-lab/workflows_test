@@ -2,3 +2,5 @@ cwltool star-alignreads.cwl star-alignreads.json
 cwltool samtools-sort-index.cwl samtools-sort-index.json
 
 chr4_100_mapped_reads.Aligned.out.bam is coordinate-sorted
+
+chr4_100_mapped_reads.Aligned.out.copy.bam is exact copy of chr4_100_mapped_reads.Aligned.out.bam
