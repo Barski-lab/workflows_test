@@ -1,0 +1,11 @@
+name	Unique Positions	Total Tags
+genome	186	94.0
+fragmentLengthEstimate=153		
+peakSizeEstimate=153		
+tagsPerBP=0.000073		
+averageTagsPerPosition=0.011		
+averageTagLength=33.984		
+gsizeEstimate=1289179		
+averageFragmentGCcontent=-1.000		
+chr4	186	94.0
+cmd=makeTagDirectory chr4_100_mapped_reads default/chr4_100_mapped_reads.Aligned.out.bam		
