@@ -1,0 +1,4 @@
+Copy vEF3A4F4-54CC-E239-A890-70399175216F.bam from BioWardrobe
+samtools view -h vEF3A4F4-54CC-E239-A890-70399175216F.bam | head -n 10024 > small.sam
+samtools view -b -o small.bam small.sam
+samtools sort small.bam -o small.sorted.bam
