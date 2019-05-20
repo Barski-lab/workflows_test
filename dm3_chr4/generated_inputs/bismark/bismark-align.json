@@ -1,0 +1,10 @@
+{
+    "indices_folder": {
+        "class": "Directory",
+        "location": "../indices/bismark/data"
+    },
+    "fastq_file": {
+        "class": "File",
+        "location": "../../main_inputs/fastq/chr4_100_chrM_25_mapped_reads/upstream.fastq"
+    }
+}

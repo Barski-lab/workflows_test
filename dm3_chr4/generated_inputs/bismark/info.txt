@@ -1,0 +1,2 @@
+cwltool --debug bismark-align.cwl bismark-align.json
+rm upstream_bismark_bt2_SE_report.txt
