@@ -1,0 +1,2 @@
+Remove all files except chr4.fa from ./data/dm3_chr4/main_inputs/fasta
+cwltool bismark-prepare-genome.cwl bismark-prepare-genome.json
