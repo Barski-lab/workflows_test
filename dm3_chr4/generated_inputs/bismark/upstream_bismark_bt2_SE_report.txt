@@ -1,0 +1,40 @@
+Bismark report for: /var/lib/cwl/stg1aeaf550-2da5-46f1-909c-9b9f5a537400/upstream.fastq (version: v0.22.1)
+Option '--non_directional' specified: alignments to all strands were being performed (OT, OB, CTOT, CTOB)
+Bismark was run with Bowtie 2 against the bisulfite genome of /var/lib/cwl/stgad98a211-d470-467c-ac17-c16c8d0ecb53/data/ with the specified options: -q --score-min L,0,-0.2 --ignore-quals
+
+Final Alignment report
+======================
+Sequences analysed in total:	125
+Number of alignments with a unique best hit from the different alignments:	87
+Mapping efficiency:	69.6%
+Sequences with no alignments under any condition:	38
+Sequences did not map uniquely:	0
+Sequences which were discarded because genomic sequence could not be extracted:	0
+
+Number of sequences with unique best (first) alignment came from the bowtie output:
+CT/CT:	2	((converted) top strand)
+CT/GA:	1	((converted) bottom strand)
+GA/CT:	42	(complementary to (converted) top strand)
+GA/GA:	42	(complementary to (converted) bottom strand)
+
+Final Cytosine Methylation Report
+=================================
+Total number of C's analysed:	675
+
+Total methylated C's in CpG context:	126
+Total methylated C's in CHG context:	133
+Total methylated C's in CHH context:	413
+Total methylated C's in Unknown context:	0
+
+Total unmethylated C's in CpG context:	0
+Total unmethylated C's in CHG context:	0
+Total unmethylated C's in CHH context:	3
+Total unmethylated C's in Unknown context:	0
+
+C methylated in CpG context:	100.0%
+C methylated in CHG context:	100.0%
+C methylated in CHH context:	99.3%
+Can't determine percentage of methylated Cs in Unknown context (CN or CHN) if value was 0
+
+
+Bismark completed in 0d 0h 0m 5s
