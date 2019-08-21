@@ -1,0 +1,36 @@
+INFO  @ Wed, 21 Aug 2019 21:18:01: 
+# Command line: callpeak -t /var/lib/cwl/stg58c867fd-38f9-4019-832c-bfed34bee79f/chr4_100_mapped_reads.Aligned.out.bam --nomodel -f BAMPE -m 4 40 --extsize 150 -n chr4_100_mapped_reads.Aligned.out_macs
+# ARGUMENTS LIST:
+# name = chr4_100_mapped_reads.Aligned.out_macs
+# format = BAMPE
+# ChIP-seq file = ['/var/lib/cwl/stg58c867fd-38f9-4019-832c-bfed34bee79f/chr4_100_mapped_reads.Aligned.out.bam']
+# control file = None
+# effective genome size = 2.70e+09
+# band width = 300
+# model fold = [4, 40]
+# qvalue cutoff = 5.00e-02
+# Larger dataset will be scaled towards smaller dataset.
+# Range for calculating regional lambda is: 10000 bps
+# Broad region calling is off
+# Paired-End mode is on
+ 
+INFO  @ Wed, 21 Aug 2019 21:18:01: #1 read fragment files... 
+INFO  @ Wed, 21 Aug 2019 21:18:01: #1 read treatment fragments... 
+INFO  @ Wed, 21 Aug 2019 21:18:01: #1 mean fragment size is determined as 10080 bp from treatment 
+INFO  @ Wed, 21 Aug 2019 21:18:01: #1 fragment size = 10080 
+INFO  @ Wed, 21 Aug 2019 21:18:01: #1  total fragments in treatment: 94 
+INFO  @ Wed, 21 Aug 2019 21:18:01: #1 user defined the maximum fragments... 
+INFO  @ Wed, 21 Aug 2019 21:18:01: #1 filter out redundant fragments by allowing at most 1 identical fragment(s) 
+INFO  @ Wed, 21 Aug 2019 21:18:01: #1  fragments after filtering in treatment: 94 
+INFO  @ Wed, 21 Aug 2019 21:18:01: #1  Redundant rate of treatment: 0.00 
+INFO  @ Wed, 21 Aug 2019 21:18:01: #1 finished! 
+INFO  @ Wed, 21 Aug 2019 21:18:01: #2 Build Peak Model... 
+INFO  @ Wed, 21 Aug 2019 21:18:01: #2 Skipped... 
+INFO  @ Wed, 21 Aug 2019 21:18:01: #2 Use 10080 as fragment length 
+INFO  @ Wed, 21 Aug 2019 21:18:01: #3 Call peaks... 
+INFO  @ Wed, 21 Aug 2019 21:18:01: #3 Pre-compute pvalue-qvalue table... 
+INFO  @ Wed, 21 Aug 2019 21:18:01: #3 Call peaks for each chromosome... 
+INFO  @ Wed, 21 Aug 2019 21:18:01: #4 Write output xls file... chr4_100_mapped_reads.Aligned.out_macs_peaks.xls 
+INFO  @ Wed, 21 Aug 2019 21:18:01: #4 Write peak in narrowPeak format file... chr4_100_mapped_reads.Aligned.out_macs_peaks.narrowPeak 
+INFO  @ Wed, 21 Aug 2019 21:18:01: #4 Write summits bed file... chr4_100_mapped_reads.Aligned.out_macs_summits.bed 
+INFO  @ Wed, 21 Aug 2019 21:18:01: Done! 
