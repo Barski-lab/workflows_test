@@ -1,4 +1,4 @@
-#bin	name	chrom	strand	txStart	txEnd	cdsStart	cdsEnd	exonCount	exonStarts	exonEnds	score	name2	cdsStartStat	cdsEndStat	exonFrames
+bin	name	chrom	strand	txStart	txEnd	cdsStart	cdsEnd	exonCount	exonStarts	exonEnds	score	name2	cdsStartStat	cdsEndStat	exonFrames
 585	NM_001258471	chr4	-	53103	64404	53643	64050	5	53103,53816,56499,57141,63539,	53751,53999,57083,61911,64404,	0	PlexB	cmpl	cmpl	0,0,1,1,0,
 585	NM_079877	chr4	-	53437	64404	53643	64050	5	53437,53816,56499,57141,63539,	53751,53999,57083,61911,64404,	0	PlexB	cmpl	cmpl	0,0,1,1,0,
 585	NR_123741	chr4	+	63399	64000	64000	64000	2	63399,63856,	63783,64000,	0	CR45124	unk	unk	-1,-1,
