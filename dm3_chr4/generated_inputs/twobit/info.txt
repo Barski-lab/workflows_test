@@ -1,0 +1,2 @@
+cwltool ucsc-fa-to-twobit.cwl ucsc-fa-to-twobit.json
+rm fa_to_twobit_stderr.log fa_to_twobit_stdout.log
