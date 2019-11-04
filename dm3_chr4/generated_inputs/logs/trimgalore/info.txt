@@ -1,0 +1,2 @@
+cwltool --debug trimgalore.cwl trimgalore.json
+rm downstream_val_2.fq upstream_val_1.fq
