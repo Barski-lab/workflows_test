@@ -1,0 +1,7 @@
+JASPAR/JASPAR2018_CORE_vertebrates_non-redundant.meme 
+EUKARYOTE/jolma2013.meme
+
+have been downloaded as part of the Motif Databases (updated 28 Oct 2019)
+
+from
+http://meme-suite.org/meme-software/Databases/motifs/motif_databases.12.19.tgz

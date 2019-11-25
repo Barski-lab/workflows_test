@@ -1,0 +1,2 @@
+meme.fa was obtained from http://meme-suite.org//doc/examples/example-datasets/Klf1.fna
+Only the first 200 lines have been used
