@@ -1,4 +1,3 @@
-chrom	txStart	txEnd	gene_id	RPKM	strand
 chr4	89951	130396	pan	0	+
 chr4	355295	379283	PMCA	0	-
 chr4	349441	379283	PMCA	0	-
