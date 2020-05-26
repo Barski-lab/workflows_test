@@ -1,0 +1,37 @@
+{
+    "score_files": [
+        {
+            "class": "File",
+            "location": "../../bigwig/chr4_100_mapped_reads.Aligned.out.sorted.bigWig"
+        },
+        {
+            "class": "File",
+            "location": "../../bigwig/chr4_100_mapped_reads.Aligned.out.sorted.bigWig"
+        }
+    ],
+    "regions_files": [
+        {
+            "class": "File",
+            "location": "../../macs_peaks/chr4_100_mapped_reads.Aligned.out_macs_peaks.narrowPeak"
+        },
+        {
+            "class": "File",
+            "location": "../../macs_peaks/chr4_100_mapped_reads.Aligned.out_macs_peaks.narrowPeak"
+        }
+    ],
+    "reference_point": "center",
+    "before_region_start_length": 100,
+    "after_region_start_length": 150,
+    "nan_after_end": true,
+    "bin_size": 5,
+    "sort_regions": "descend",
+    "sort_using": "mean",
+    "average_type_bins": "mean",
+    "missing_data_as_zero": true,
+    "skip_zeros": true,
+    "min_threshold": 0,
+    "max_threshold": 99,
+    "samples_label": ["sample 1", "sample 2"],
+    "output_filename": "double_score_matrix.gz",
+    "threads": 1
+}

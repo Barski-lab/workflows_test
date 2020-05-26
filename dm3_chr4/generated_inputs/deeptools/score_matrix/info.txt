@@ -1,0 +1,3 @@
+cwltool deeptools-computematrix-referencepoint.cwl deeptools-computematrix-referencepoint-1.json
+cwltool deeptools-computematrix-referencepoint.cwl deeptools-computematrix-referencepoint-2.json
+rm compute_matrix_stderr.log compute_matrix_stdout.log

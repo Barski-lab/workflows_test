@@ -1,0 +1,11 @@
+{
+    "score_files": {
+        "class": "File",
+        "location": "../../bigwig/chr4_100_mapped_reads.Aligned.out.sorted.bigWig"
+    },
+    "regions_files": {
+        "class": "File",
+        "location": "../../macs_peaks/chr4_100_mapped_reads.Aligned.out_macs_peaks.narrowPeak"
+    },
+    "output_filename": "single_score_matrix.gz"
+}
