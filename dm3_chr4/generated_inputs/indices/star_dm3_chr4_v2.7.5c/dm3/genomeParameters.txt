@@ -1,0 +1,19 @@
+### STAR   --runMode genomeGenerate   --runThreadN 2   --genomeDir dm3   --genomeFastaFiles /var/lib/cwl/stg9fdd0412-a971-435f-a245-729f75a3237a/chr4.fa      --genomeSAindexNbases 10   --sjdbGTFfile /var/lib/cwl/stgbdb4459a-b16f-4ed0-86a7-7278dcef839d/dm3_chr4.gtf   --sjdbOverhang 100
+### GstrandBit 32
+versionGenome	2.7.4a
+genomeType	Full
+genomeFastaFiles	/var/lib/cwl/stg9fdd0412-a971-435f-a245-729f75a3237a/chr4.fa 
+genomeSAindexNbases	10
+genomeChrBinNbits	18
+genomeSAsparseD	1
+genomeTransformType	None
+genomeTransformVCF	-
+sjdbOverhang	100
+sjdbFileChrStartEnd	- 
+sjdbGTFfile	/var/lib/cwl/stgbdb4459a-b16f-4ed0-86a7-7278dcef839d/dm3_chr4.gtf
+sjdbGTFchrPrefix	-
+sjdbGTFfeatureExon	exon
+sjdbGTFtagExonParentTranscript	transcript_id
+sjdbGTFtagExonParentGene	gene_id
+sjdbInsertSave	Basic
+genomeFileSizes	1752156 12623799

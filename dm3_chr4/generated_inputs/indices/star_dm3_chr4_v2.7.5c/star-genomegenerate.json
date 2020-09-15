@@ -1,0 +1,16 @@
+{
+  "genome_fasta_files":[
+    {
+      "class": "File",
+      "location": "../../../main_inputs/fasta/chr4.fa"
+    }
+  ],
+  "sjdb_gtf_file":{
+    "class": "File",
+    "location":"../../../main_inputs/gtf/dm3_chr4.gtf"
+  },
+  "genome_dir": "dm3",
+  "genome_sa_index_n_bases": 10,
+  "sjdb_overhang": 100,
+  "threads": 2
+}
