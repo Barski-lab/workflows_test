@@ -1,0 +1,2 @@
+To generate dm3_chr4_correct_gene_id.gtf run the following command
+docker run --rm -ti -v `pwd`:/tmp/ biowardrobe2/ucscuserapps:v358 /bin/bash -c "cut -f 2- dm3_chr4.tsv | genePredToGtf file stdin dm3_chr4_correct_gene_id.gtf"
