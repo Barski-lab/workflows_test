@@ -1,0 +1,10 @@
+{
+    "genome_fasta_file": {
+        "class": "File",
+        "location": "../../../main_inputs/fasta/chr4.fa"
+    },
+    "annotation_gtf_file": {
+        "class": "File",
+        "location": "../../../main_inputs/gtf/dm3_chr4_correct_gene_id.gtf"
+    }
+}
