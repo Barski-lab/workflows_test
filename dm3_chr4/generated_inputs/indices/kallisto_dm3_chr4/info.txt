@@ -1,1 +1,4 @@
 cwltool --debug kb-ref.cwl kb-ref.json
+
+mv chr4.tsv chr4_transcript_to_gene.tsv
+mv chr4.fasta chr4_transcript.fasta
