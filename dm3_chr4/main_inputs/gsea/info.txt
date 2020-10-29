@@ -1,1 +1,2 @@
 Make sure that read_counts.gct doesn't include n/a. Better to have na
+wget -O enrichr.H_hallmark_gene_sets.gmt https://data.broadinstitute.org/gsea-msigdb/msigdb/release/7.1/h.all.v7.1.symbols.gmt
