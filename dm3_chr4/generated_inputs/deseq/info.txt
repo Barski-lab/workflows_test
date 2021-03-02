@@ -1,0 +1,2 @@
+cwltool deseq-advanced.cwl deseq-advanced-1.json
+rm *.gct *.png *.log *.pdf *.cls
