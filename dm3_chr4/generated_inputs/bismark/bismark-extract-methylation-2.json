@@ -1,0 +1,10 @@
+{
+    "genome_folder": {
+        "class": "Directory",
+        "location": "genome_fasta"
+    },
+    "bam_file": {
+        "class": "File",
+        "location": "upstream_bismark_bt2_pe.bam"
+    }
+}

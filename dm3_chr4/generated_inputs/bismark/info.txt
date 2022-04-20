@@ -1,3 +1,8 @@
-cwltool --debug bismark-align.cwl bismark-align.json
-cwltool --debug bismark-extract-methylation.cwl bismark-extract-methylation.json
+cd genome_indices
+cwltool bismark-prepare-genome.cwl bismark-prepare-genome.json
+cwltool --debug bismark-align.cwl bismark-align-1.json
+cwltool --debug bismark-align.cwl bismark-align-2.json
+cwltool --debug bismark-extract-methylation.cwl bismark-extract-methylation-1.json
+cwltool --debug bismark-extract-methylation.cwl bismark-extract-methylation-2.json
 rm *bismark_bt2.txt upstream_bismark_bt2.CpG_report.txt upstream_bismark_bt2.M-bias_R1.png upstream_bismark_bt2.bedGraph.gz upstream_bismark_bt2.bismark.cov.gz
+rm *bismark_bt2_pe.txt upstream_bismark_bt2_pe.CpG_report.txt upstream_bismark_bt2_pe.M-bias_R1.png upstream_bismark_bt2_pe.M-bias_R2.png upstream_bismark_bt2_pe.bedGraph.gz upstream_bismark_bt2_pe.bismark.cov.gz

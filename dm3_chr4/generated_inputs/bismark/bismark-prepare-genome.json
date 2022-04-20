@@ -1,0 +1,6 @@
+{
+    "genome_folder": {
+        "class": "Directory",
+        "location": "./genome_fasta"
+    }
+}
