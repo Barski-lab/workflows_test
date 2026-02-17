@@ -1,0 +1,9 @@
+Contrast number	Description	Main effect	Main levels	Interaction effect	Interaction levels	Significant features count
+cn1	IM (NFAT5KO) vs CTX (NFAT5KO)	tissue_IM_vs_CTX	tissue: CTX, IM	None (base level)	genotype: NFAT5KO, WT	113
+cn2	IM (WT) vs CTX (WT)	tissue_IM_vs_CTX	tissue: CTX, IM	genotypeWT.tissueIM	genotype: NFAT5KO, WT	191
+cn3	CTX (NFAT5KO) vs IM (NFAT5KO)	tissue_CTX_vs_IM	tissue: IM, CTX	None (base level)	genotype: NFAT5KO, WT	113
+cn4	CTX (WT) vs IM (WT)	tissue_CTX_vs_IM	tissue: IM, CTX	genotypeWT.tissueCTX	genotype: NFAT5KO, WT	191
+cn5	WT (CTX) vs NFAT5KO (CTX)	genotype_WT_vs_NFAT5KO	genotype: NFAT5KO, WT	None (base level)	tissue: CTX, IM	17
+cn6	WT (IM) vs NFAT5KO (IM)	genotype_WT_vs_NFAT5KO	genotype: NFAT5KO, WT	genotypeWT.tissueIM	tissue: CTX, IM	35
+cn7	NFAT5KO (CTX) vs WT (CTX)	genotype_NFAT5KO_vs_WT	genotype: WT, NFAT5KO	None (base level)	tissue: CTX, IM	17
+cn8	NFAT5KO (IM) vs WT (IM)	genotype_NFAT5KO_vs_WT	genotype: WT, NFAT5KO	genotypeNFAT5KO.tissueIM	tissue: CTX, IM	35
