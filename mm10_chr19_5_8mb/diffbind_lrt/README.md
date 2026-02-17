@@ -1,0 +1,1 @@
+All input files have been downloaded from the [PRJNA1036217](https://www.ncbi.nlm.nih.gov/bioproject/PRJNA1036217) and mapped with `trim-atacseq-pe.cwl` pipeline on hg38 genome removing PCR duplicates. The resulted BAM and XLS files have been filtered to `chr19:5000000-8000000` region. Additionally, BAM files have been downsamples to 0.25.
